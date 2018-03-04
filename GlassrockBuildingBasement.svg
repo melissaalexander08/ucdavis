@@ -11,6 +11,28 @@
 <polygon id="GRB-0001" points="874,843 989,843 989,663 934,663 934,616 931,616 931,612 895,612 895,616 874,616" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="GRB-0001B" points="870,684 874,684 874,648 870,648 870,616 774,616 774,716 870,716" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="GRB-0001A" points="874,749 870,749 870,716 774,716 774,843 870,843 870,785 874,785" stroke="rgb(none)" stroke-width="1.3" fill="none" />
+<line x1="1392" y1="72" x2="225" y2="72" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="225" y1="293" x2="225" y2="72" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="225" y1="72" x2="225" y2="293" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="225" y1="293" x2="46" y2="293" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="46" y1="293" x2="46" y2="565" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="46" y1="565" x2="236" y2="1226" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="236" y1="1226" x2="767" y2="1226" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="767" y1="1226" x2="767" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="767" y1="1166" x2="1934" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="1934" y1="1166" x2="1934" y2="31" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="1934" y1="31" x2="1392" y2="31" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="1392" y1="31" x2="1392" y2="72" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="225" y1="72" x2="1392" y2="72" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="1392" y1="72" x2="1392" y2="31" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="1392" y1="31" x2="1934" y2="31" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="1934" y1="31" x2="1934" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="1934" y1="1166" x2="767" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="767" y1="1166" x2="767" y2="1226" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="767" y1="1226" x2="236" y2="1226" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="236" y1="1226" x2="46" y2="565" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="46" y1="565" x2="46" y2="293" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<line x1="46" y1="293" x2="225" y2="293" stroke-width="3.0" stroke="rgb(0,0,0)" />
 <line x1="1392" y1="31" x2="1934" y2="31" stroke-width="3.0" stroke="rgb(0,0,0)" />
 <line x1="1392" y1="72" x2="1392" y2="31" stroke-width="3.0" stroke="rgb(0,0,0)" />
 <line x1="225" y1="72" x2="1392" y2="72" stroke-width="3.0" stroke="rgb(0,0,0)" />
@@ -26,21 +48,6 @@
 <line x1="1924" y1="1166" x2="1924" y2="1215" stroke-width="3.0" stroke="rgb(0,0,0)" />
 <line x1="1934" y1="1166" x2="1924" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
 <line x1="1934" y1="31" x2="1934" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="1392" y1="31" x2="1934" y2="31" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="1934" y1="31" x2="1934" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="1934" y1="1166" x2="1924" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="1924" y1="1166" x2="1924" y2="1215" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="1924" y1="1215" x2="1814" y2="1215" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="1814" y1="1215" x2="1814" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="1814" y1="1166" x2="767" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="767" y1="1166" x2="767" y2="1226" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="767" y1="1226" x2="236" y2="1226" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="236" y1="1226" x2="46" y2="565" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="46" y1="565" x2="46" y2="293" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="46" y1="293" x2="225" y2="293" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="225" y1="293" x2="225" y2="72" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="225" y1="72" x2="1392" y2="72" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="1392" y1="72" x2="1392" y2="31" stroke-width="3.0" stroke="rgb(0,0,0)" />
 <line x1="931" y1="616" x2="931" y2="612" stroke-width="0.5" stroke="rgb(200,200,200)" />
 <line x1="649" y1="77" x2="571" y2="77" stroke-width="0.5" stroke="rgb(200,200,200)" />
 <line x1="649" y1="83" x2="571" y2="83" stroke-width="0.5" stroke="rgb(200,200,200)" />

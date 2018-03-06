@@ -366,11 +366,8 @@
 <polygon id="ACC-0541C" points="1900,1945 1833,1945 1833,2039 1858,2039 1858,2043 1894,2043 1894,2039 1900,2039" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0541D" points="1971,1945 1904,1945 1904,2039 1929,2039 1929,2043 1965,2043 1965,2039 1971,2039" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0541E" points="2042,1945 1975,1945 1975,2039 1981,2039 1981,2043 2017,2043 2017,2039 2042,2039" stroke="rgb(none)" stroke-width="1.3" fill="none" />
-<polygon id="ACC-X2" points="2300,1699 2196,1699 2196,1815 2300,1815" stroke="rgb(none)" stroke-width="1.3" fill="none" />
-<polygon id="ACC-X1" points="2192,1699 2096,1699 2096,1815 2192,1815" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0030A" points="2092,1699 1801,1699 1801,1815 2046,1815 2046,1819 2088,1819 2088,1815 2092,1815" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0008" points="2444,1598 2539,1598 2539,1527 2308,1527 2308,1839 2312,1839 2312,1843 2348,1843 2348,1839 2444,1839" stroke="rgb(none)" stroke-width="1.3" fill="none" />
-<polygon id="ACC-X3" points="2539,1606 2452,1606 2452,1817 2539,1817" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0000B" points="2632,1617 2628,1617 2628,1588 2543,1588 2543,1688 2628,1688 2628,1659 2632,1659" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0000A" points="2628,1551 2632,1551 2632,1509 2628,1509 2628,1480 2543,1480 2543,1580 2628,1580" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0000C" points="2632,1725 2628,1725 2628,1696 2543,1696 2543,1796 2628,1796 2628,1767 2632,1767" stroke="rgb(none)" stroke-width="1.3" fill="none" />
@@ -410,11 +407,8 @@
 <polygon id="ACC-0020E" points="3986,1203 3978,1203 3978,1202 3976,1202 3976,1197 3982,1197 3982,1186 3853,1186 3853,1286 3982,1286 3982,1251 3986,1251" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0006" points="3739,1583 3254,1583 3254,1839 3333,1839 3333,1817 3359,1817 3359,1839 3629,1839 3629,1843 3713,1843 3713,1839 3717,1839 3717,1817 3739,1817" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0010C" points="3739,1459 3494,1459 3494,1455 3452,1455 3452,1459 3448,1459 3448,1579 3739,1579" stroke="rgb(none)" stroke-width="1.3" fill="none" />
-<polygon id="ACC-X5" points="3444,1459 3348,1459 3348,1579 3444,1579" stroke="rgb(none)" stroke-width="1.3" fill="none" />
-<polygon id="ACC-X4" points="3344,1459 3226,1459 3226,1579 3344,1579" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0010A" points="3250,1583 3222,1583 3222,1483 3218,1483 3218,1479 3134,1479 3134,1483 3130,1483 3130,1542 3094,1542 3094,1706 3250,1706" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <polygon id="ACC-0004" points="3126,1437 3038,1437 3038,1433 2990,1433 2990,1437 2978,1437 2978,1484 2964,1484 2964,1538 3126,1538" stroke="rgb(none)" stroke-width="1.3" fill="none" />
-<polygon id="ACC-X6" points="2974,1435 2951,1435 2951,1437 2929,1437 2929,1480 2974,1480" stroke="rgb(none)" stroke-width="1.3" fill="none" />
 <line x1="912" y1="264" x2="4912" y2="264" stroke-width="3.0" stroke="rgb(0,0,0)" />
 <line x1="912" y1="88" x2="912" y2="264" stroke-width="3.0" stroke="rgb(0,0,0)" />
 <line x1="712" y1="88" x2="912" y2="88" stroke-width="3.0" stroke="rgb(0,0,0)" />
